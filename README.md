@@ -1,7 +1,9 @@
 # Robot-Software-Design
-The Document includes a full software design model for a robot utilized within a hospital using the Waaterfall Process
+The Document includes a full software design model for a robot utilized within a hospital using the Waterfall Process
+
 
 The Project includes:
+
 
 Modeling: Requirements Analysis
 
